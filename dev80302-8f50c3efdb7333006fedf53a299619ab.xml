@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-10-10 05:37:30"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description/><inserted/><name>OneWeb Configuration Global</name><origin_sys_id/><parent/><release_date>2019-09-27 13:25:36</release_date><remote_base_update_set/><remote_parent_id/><remote_sys_id>8f50c3efdb7333006fedf53a299619ab</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>f2139157db9000106fedf53a2996197a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><u_close_task>false</u_close_task><u_completed_by/><u_notify_users/><u_push_to_prod>false</u_push_to_prod><u_push_to_test>false</u_push_to_test><u_task/><update_set/><update_source/><updated/></sys_remote_update_set><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_dictionary_ast_contract_vendor_contract</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="vendor_contract" table="ast_contract"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Contract number</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>vendor_contract</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>true</mandatory><max_length>40</max_length><name>ast_contract</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2019-06-05 19:52:47</sys_created_on><sys_id>1df45622e135330078502406b63333dd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Contract number</sys_name><sys_package display_value="Contract Management" source="com.snc.contract_management">f4f45622e135330078502406b6333354</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_ast_contract_vendor_contract</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 11:50:48</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload><payload_hash>-717052030</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>3a139157db9000106fedf53a2996197b</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d39e93a2a0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table>ast_contract</table><target_name>Contract.Contract number</target_name><type>Dictionary</type><update_domain>global</update_domain><update_guid>996287630bb333008f037ccf986998ed</update_guid><update_guid_history>996287630bb333008f037ccf986998ed:-717052030,d1624f2337b33300bec287406f613944:153934149</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>kb_uc_can_read_mtom_97beda78db0000106fedf53a299619f7</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom"><kb_uc_can_read_mtom action="INSERT_OR_UPDATE"><kb_knowledge_base display_value="Customer Service for DP">ae3ddbb7dbf373006fedf53a2996191f</kb_knowledge_base><sys_class_name>kb_uc_can_read_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-20 06:27:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>97beda78db0000106fedf53a299619f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Customer Service for DP.All Customer Contacts</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>kb_uc_can_read_mtom_97beda78db0000106fedf53a299619f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-20 06:27:26</sys_updated_on><user_criteria display_value="All Customer Contacts">a353d870c3120200e69810c422d3aee2</user_criteria></kb_uc_can_read_mtom></record_update>]]></payload><payload_hash>16510297</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>3e139157db9000106fedf53a2996197a</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d4d5a9c970000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table/><target_name>Customer Service for DP.All Customer Contacts</target_name><type>Who Can Read Knowledge Base</type><update_domain>global</update_domain><update_guid>57beda7886000010e19823497e32cff9</update_guid><update_guid_history>57beda7886000010e19823497e32cff9:16510297</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_ui_section_b826af33db3773006fedf53a299619e9</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b826af33db3773006fedf53a299619e9" sys_domain="global" table="account_relationship" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>8126af33db3773006fedf53a299619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>to_company</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>0526af33db3773006fedf53a299619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>from_company</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>8526af33db3773006fedf53a299619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>relationship_label</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>0926af33db3773006fedf53a299619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>8926af33db3773006fedf53a299619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>relationship_type</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>0d26af33db3773006fedf53a299619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>reverse_relationship</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>8d26af33db3773006fedf53a299619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>reverse_relationship_label</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>0126af33db3773006fedf53a299619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_id>8126af33db3773006fedf53a299619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="account_relationship" sys_domain="global" view="Default view">b826af33db3773006fedf53a299619e9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>account_relationship</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:05:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b826af33db3773006fedf53a299619e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>account_relationship</sys_name><sys_overrides/><sys_package display_value="Customer Service Base Entities" source="com.snc.cs_base">bd702a54db3333006fedf53a29961972</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_b826af33db3773006fedf53a299619e9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:05:28</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload><payload_hash>2064964767</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>72139157db9000106fedf53a2996197c</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d3e7834c40000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table>account_relationship</table><target_name>Account Relationship</target_name><type>Form Layout</type><update_domain>global</update_domain><update_guid>c5266b7366377300adde0c993929cd7b</update_guid><update_guid_history>c5266b7366377300adde0c993929cd7b:2064964767,bc26af3339377300ce506427482d99eb:-1195561566</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_dictionary_ast_contract_short_description</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="short_description" table="ast_contract"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Short description</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>true</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>short_description</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>ast_contract</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2019-06-05 19:52:47</sys_created_on><sys_id>95f45622e135330078502406b63333df</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Short description</sys_name><sys_package display_value="Contract Management" source="com.snc.contract_management">f4f45622e135330078502406b6333354</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_ast_contract_short_description</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 11:50:49</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload><payload_hash>-460241453</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>76139157db9000106fedf53a2996197b</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d39e93b0b0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table>ast_contract</table><target_name>Contract.Short description</target_name><type>Dictionary</type><update_domain>global</update_domain><update_guid>9562c7630fb33300efb404fb236e6a13</update_guid><update_guid_history>9562c7630fb33300efb404fb236e6a13:-460241453,5962876322b3330095ea169616c83def:1167169102</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>DELETE</action><application display_value="Global">global</application><category>customer</category><comments/><name>kb_uc_can_read_mtom_219e137bdbf373006fedf53a29961987</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom"><kb_uc_can_read_mtom action="DELETE"><kb_knowledge_base display_value="Customer Service for DP">ae3ddbb7dbf373006fedf53a2996191f</kb_knowledge_base><sys_class_name>kb_uc_can_read_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 08:32:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>219e137bdbf373006fedf53a29961987</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Customer Service for DP.SNC External</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>kb_uc_can_read_mtom_219e137bdbf373006fedf53a29961987</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 08:32:28</sys_updated_on><user_criteria display_value="SNC External">1e016e1cdb3333006fedf53a29961975</user_criteria></kb_uc_can_read_mtom></record_update>]]></payload><payload_hash>1456408871</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>7a139157db9000106fedf53a2996197a</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d4d5a9d2a0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table/><target_name>Customer Service for DP.SNC External</target_name><type>Who Can Read Knowledge Base</type><update_domain>global</update_domain><update_guid>17beda7847000010796f6a9f60ede6fe</update_guid><update_guid_history>17beda7847000010796f6a9f60ede6fe:1456408871,659e137baaf37300424ae121a2b0f088:-689202149</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_dictionary_ast_contract_number</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="number" table="ast_contract"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>ignore_filter_on_new=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Number</column_label><comments/><create_roles/><default_value>javascript:getNextObjNumberPadded();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value display_value="Get Next Padded Number">fdcb83a85f220100a9ad2572f2b4773c</dynamic_default_value><dynamic_ref_qual/><element>number</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>ast_contract</name><next_element/><primary>false</primary><read_only>true</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2012-03-01 02:03:18</sys_created_on><sys_id>5df45622e135330078502406b63333db</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Number</sys_name><sys_package display_value="Contract Management" source="com.snc.contract_management">f4f45622e135330078502406b6333354</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_ast_contract_number</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 11:50:49</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>true</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles>admin</write_roles><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload><payload_hash>1600644300</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>b2139157db9000106fedf53a2996197b</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d39e93af80000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table>ast_contract</table><target_name>Contract.Number</target_name><type>Dictionary</type><update_domain>global</update_domain><update_guid>d162c7633ab333009b3af8d6e2854e12</update_guid><update_guid_history>d162c7633ab333009b3af8d6e2854e12:1600644300,51628763f2b33300bc0542491a6e7cfb:99235995</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>content_page_rule_90e3d0060a0a0bf000382c1371f7f43e</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="content_page_rule"&gt;&lt;content_page_rule action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;advanced_condition&gt;&lt;![CDATA[!gs.getUser().hasRoles();]]&gt;&lt;/advanced_condition&gt;&lt;condition/&gt;&lt;content_page display_value="Portal"&gt;5766ea5cc0a8016b011f76e9422cca9f&lt;/content_page&gt;&lt;description/&gt;&lt;name&gt;Users without Roles to ESS&lt;/name&gt;&lt;order&gt;200&lt;/order&gt;&lt;sys_class_name&gt;content_page_rule&lt;/sys_class_name&gt;&lt;sys_created_by&gt;glide.james&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2010-08-20 19:05:03&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;90e3d0060a0a0bf000382c1371f7f43e&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Users without Roles to ESS&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="ESS Portal (implemented within Content Management)" source="com.glide.cms.extensions"&gt;c3e356a6e1f1330078502406b63333ca&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;content_page_rule_90e3d0060a0a0bf000382c1371f7f43e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-17 05:53:26&lt;/sys_updated_on&gt;&lt;type&gt;local&lt;/type&gt;&lt;/content_page_rule&gt;&lt;/record_update&gt;</payload><payload_hash>-582504833</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>b6139157db9000106fedf53a2996197a</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d3dc864740000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table/><target_name>Users without Roles to ESS</target_name><type>Login Rule</type><update_domain>global</update_domain><update_guid>bb2afe33c57373005ddca8cf78f34ca1</update_guid><update_guid_history>bb2afe33c57373005ddca8cf78f34ca1:-582504833,7f2afe3389737300ac32d7b36e23c4a0:-1979555018</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_ui_section_11363ae3db7333006fedf53a299619b2</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="11363ae3db7333006fedf53a299619b2" sys_domain="global" table="customer_account" version="3" view="case"><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>48e5e373db3773006fedf53a299619ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>cce5e373db3773006fedf53a299619ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>contact</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>40e5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>street</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>c0e5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>44e5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>phone</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>c4e5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>website</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>48e5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>city</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>c8e5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>zip</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>4ce5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>cce5e373db3773006fedf53a299619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>notes</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>40e5e373db3773006fedf53a299619ad</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>customer</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>c0e5e373db3773006fedf53a299619ad</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>partner</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 09:04:18</sys_created_on><sys_id>44e5e373db3773006fedf53a299619ad</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="customer_account" sys_domain="global" view="9531ee9cdb3333006fedf53a2996192c">11363ae3db7333006fedf53a299619b2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 09:04:18</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>customer_account</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-16 10:57:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>11363ae3db7333006fedf53a299619b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>customer_account</sys_name><sys_overrides/><sys_package display_value="Customer Service Base Entities" source="com.snc.cs_base">bd702a54db3333006fedf53a29961972</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_11363ae3db7333006fedf53a299619b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 10:57:34</sys_updated_on><sys_user/><title>false</title><view display_value="Case" name="case">9531ee9cdb3333006fedf53a2996192c</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload><payload_hash>1878548524</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>be139157db9000106fedf53a2996197b</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d3e7725b30000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table>customer_account</table><target_name>Account</target_name><type>Form Layout</type><update_domain>global</update_domain><update_guid>80e5e3732e377300745af76e3483d5af</update_guid><update_guid_history>80e5e3732e377300745af76e3483d5af:1878548524,d5363ae3b77333007726988798de6db5:-403465143</update_guid_history><update_set/><view>case</view></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_script_include_d5acd7d2d7123100b7490ee60e6103f4</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.CSManagementUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Helper functions for Customer Service Management&lt;/description&gt;&lt;name&gt;CSManagementUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var CSManagementUtils = Class.create();
+CSManagementUtils.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+	generateCreateCaseHiddenValue: function(company) {
+		company = company || gs.getUser().getCompanyID();
+		var value = "company-" + company;
+		var gr = new GlideRecord('customer_account');
+		if (gr.get(company)) {
+			value += "#isCustomer-" + gr.customer;
+			value += "#isPartner-" + gr.partner;
+
+			var count = new GlideAggregate('customer_account');
+			count.addQuery('account_path', 'STARTSWITH', gr.account_path + '/');
+			count.addAggregate('COUNT');
+			count.setWorkflow(false);
+			count.query();
+			if (count.next())
+				value += "#hasSubAccounts-" + (count.getAggregate('COUNT') &gt; 0);
+
+			var ar = new GlideAggregate('sn_customerservice_contact_relationship');
+			ar.addQuery('contact', gs.getUserID());
+			ar.addAggregate('COUNT');
+			ar.setWorkflow(false);
+			ar.query();
+			if (ar.next())
+				value += "#hasAccountContactRelation-"  + (ar.getAggregate('COUNT') &gt; 0);
+		}
+// 		gs.info("generateCreateCaseHiddenValue --&gt;" + value);
+		return value;
+	},
+
+// 	isEntitlementValid:function(entitlement_sysId){
+// 		var valid = false;
+// 		if(entitlement_sysId){
+// 			var entitlement = new GlideRecord("service_entitlement");
+// 			if(entitlement.get(entitlement_sysId) &amp;&amp; entitlement.state == 1){
+// 				var startDate = new GlideDateTime(entitlement.start_date);
+// 				var endDate = new GlideDateTime(entitlement.end_date);
+// 				var currentDate = new GlideDateTime();
+// 				if(currentDate.compareTo(startDate)==1 &amp;&amp; currentDate.compareTo(endDate)== -1){
+// 					if(entitlement.getValue("per_case")==1){
+// 						valid = entitlement.getValue("remaining_units") &gt; 0 ? true : false;
+// 					}else{
+// 						valid = true;
+// 					}
+// 				}
+// 			}
+// 			return valid;
+// 		}else{
+// 			return valid;
+// 		}
+// 	},
+
+	getEntitlements: function(account, product, channel){
+
+		var  cus = current.consumer;
+		var  com = account || current.account;
+		var  pro = product || current.product;
+		channel = channel || current.contact_type;
+		var query = ' ';
+
+
+		var entitlements = new GlideRecord("service_entitlement");
+		var	channelSysId = this.getChoiceSysIdForChannel(channel);
+
+		var	entqc = entitlements.addNullQuery('channel');
+		if (!gs.nil(channelSysId))
+			entqc.addOrCondition("channel", "CONTAINS", channelSysId);
+
+		var isQuerySet = false;
+		var qc = "";
+		if(!gs.nil(com)){
+			qc = entitlements.addNullQuery("consumer", 'ISEMPTY');
+			qc = qc.addCondition("account", com);
+			isQuerySet = true;
+		} else if(!gs.nil(cus)){
+			qc = entitlements.addNullQuery("account", 'ISEMPTY');
+			qc = qc.addCondition("consumer", cus);
+			isQuerySet = true;
+		}
+
+		if(!gs.nil(pro)){
+			if(isQuerySet)
+				qc.addOrCondition("product", pro);
+			else{
+				entitlements.addQuery("product", pro);
+				isQuerySet = true;
+			}
+		}
+		if(isQuerySet){
+			entitlements.query();
+			while(entitlements.next()){
+				if (query.length &gt; 0)
+					query += ', ' + entitlements.sys_id;
+				else
+					query = entitlements.sys_id;
+			}
+		}
+
+		if(!gs.nil(current.contract)){
+			entitlements = new GlideRecord("service_entitlement");
+			entqc = entitlements.addNullQuery('channel');
+			if (!gs.nil(channelSysId))
+				entqc.addOrCondition("channel", "CONTAINS", channelSysId);
+
+			entitlements.addQuery("contract", current.contract);
+			entitlements.query();
+			while(entitlements.next()){
+
+				if (query.length &gt; 0)
+					query += ', ' + entitlements.sys_id;
+				else
+					query = entitlements.sys_id;
+
+			}
+		}
+
+		return 'sys_idIN' + query;
+	},
+
+
+
+	getEntitlement: function(){
+
+		var entitlement = new GlideRecord("service_entitlement");
+		if(!gs.nil(current.contract)){
+			entitlement.addQuery("contract",current.contract);
+			entitlement.query();
+			if(entitlement.getRowCount() == 1 ){
+				entitlement.next();
+				return entitlement.getValue("sys_id");
+			}else if(entitlement.getRowCount() &gt; 1)
+			return '';
+
+		}
+
+		if(!gs.nil(current.product)){
+			entitlement = new GlideRecord("service_entitlement");
+			entitlement.addQuery("product",current.product);
+			entitlement.query();
+			if(entitlement.getRowCount() == 1 ){
+				entitlement.next();
+				return entitlement.getValue("sys_id");
+			}else if(entitlement.getRowCount() &gt; 1)
+			return '';
+		}
+
+		if(!gs.nil(current.account)){
+			entitlement = new GlideRecord("service_entitlement");
+			entitlement.addQuery("account",current.account);
+			entitlement.query();
+			if(entitlement.getRowCount() == 1 ){
+				entitlement.next();
+				return entitlement.getValue("sys_id");
+			}else if(entitlement.getRowCount() &gt; 1)
+			return '';
+		}
+
+		return '';
+
+
+	},
+
+	getFirstEntitlement: function(){
+
+		var entitlement = new GlideRecord("service_entitlement");
+		var entitlement_id = '';
+		if(!gs.nil(current.contract)){
+			entitlement.addQuery("contract",current.contract);
+			entitlement.query();
+			while(entitlement.next()) {
+				if(gs.nil(entitlement_id))
+					entitlement_id = entitlement.getValue("sys_id");
+				if(current.contact_type == entitlement.getValue("type")){
+					entitlement_id = entitlement.getValue("sys_id");
+					return entitlement_id;
+				}
+			}
+		}
+
+		if(!gs.nil(current.product)){
+			entitlement = new GlideRecord("service_entitlement");
+			entitlement.addQuery("product",current.product);
+			entitlement.query();
+			while(entitlement.next()) {
+				if(gs.nil(entitlement_id))
+					entitlement_id = entitlement.getValue("sys_id");
+				if(current.contact_type == entitlement.getValue("type")){
+					entitlement_id = entitlement.getValue("sys_id");
+					return entitlement_id;
+				}
+			}
+		}
+
+		if(!gs.nil(current.account)){
+			entitlement = new GlideRecord("service_entitlement");
+			entitlement.addQuery("account",current.account);
+			entitlement.query();
+			while(entitlement.next()) {
+				if(gs.nil(entitlement_id))
+					entitlement_id = entitlement.getValue("sys_id");
+				if(current.contact_type == entitlement.getValue("type")){
+					entitlement_id = entitlement.getValue("sys_id");
+					return entitlement_id;
+				}
+			}
+		}
+		return entitlement_id;
+	},
+
+
+	getContractsForAccount: function(){
+		if(!gs.nil(current.consumer)){
+			return 'consumer=' + current.consumer;
+		} else if(!gs.nil(current.account)){
+			return 'account=' + current.account;
+		}
+	},
+
+	getContractForAccount: function(account){
+		//gs.info("outside"+current.account);
+		if(!gs.nil(account)){
+			var query = ' ';
+			//gs.info("inside"+current.account);
+			var contract = new GlideRecord("ast_contract");
+			contract.addQuery("account", current.account);
+			contract.query();
+			if(contract.getRowCount() == 1){
+				contract.next();
+				return contract.getValue("sys_id");
+			}
+		}
+		return '';
+
+	},
+
+	getContractsForContact :  function(){
+		if(!gs.nil(current.contact)){
+			var query = ' ';
+			var contract = new GlideRecord("ast_contract");
+			contract.addQuery("account", current.contact.account);
+			contract.query();
+			while(contract.next()){
+				if (query.length &gt; 0)
+					query += ', ' + contract.sys_id;
+				else
+					query = contract.sys_id;
+			}
+			return 'sys_idIN' + query;
+		}
+	},
+
+	getContactsForContract :  function(){
+		if(!gs.nil(current.contract)){
+			var query = ' ';
+			var contact = new GlideRecord("customer_contact");
+			contact.addQuery("account", current.contract.account);
+			contact.query();
+			while(contact.next()){
+				if (query.length &gt; 0)
+					query += ', ' + contact.sys_id;
+				else
+					query = contact.sys_id;
+			}
+			return 'sys_idIN' + query;
+		}
+	},
+
+	getContactsForCurrentAccount :  function(){
+		if(current.getTableName() == "customer_account"){
+			var query = ' ';
+			var contact = new GlideRecord("customer_contact");
+			contact.addQuery("account", current.sys_id);
+			contact.query();
+			while(contact.next()){
+				if (query.length &gt; 0)
+					query += ', ' + contact.sys_id;
+				else
+					query = contact.sys_id;
+			}
+			return 'sys_idIN' + query;
+		}
+	},
+
+	getAssetForCase: function(account, product){
+		var asset;
+		if(gs.nil(account))
+			account = current.account;
+
+		if(gs.nil(product))
+			product = current.product;
+
+		var consumer = current.consumer;
+
+		if (current.getTableName() == 'csm_service_case') {
+			asset = new GlideRecord("alm_service");
+			if (!gs.nil(current.service)) {
+				var qc = asset.addQuery("ci", current.service);
+				qc.addOrCondition("parent.ci", current.service);
+			}
+		} else {
+			asset = new GlideRecord("alm_asset");
+			if (!gs.nil(product))
+				asset.addQuery("model", product);
+		}
+
+		if (!gs.nil(account))
+			asset.addQuery("account", account);
+		else if (!gs.nil(consumer))
+			asset.addQuery("consumer", consumer);
+
+		return asset.getEncodedQuery();
+
+	},
+
+	getAssetsForEntitlement: function(account, contract){
+		if(gs.nil(account))
+			account = current.account;
+
+		if(gs.nil(contract))
+			contract = current.contract;
+
+
+		var asset = new GlideRecord("alm_asset");
+
+		var query = ' ';
+		if(!gs.nil(account) &amp;&amp; gs.nil(contract)){
+			asset.addQuery("account", account);
+			asset.query();
+			while(asset.next()){
+				if (query.length &gt; 0)
+					query += ', ' + asset.sys_id;
+				else
+					query = asset.sys_id;
+			}
+			return 'sys_idIN' + query ;
+		}
+
+		if(!gs.nil(contract)){
+			var assetsCovered = new GlideRecord("clm_m2m_contract_asset");
+			assetsCovered.addQuery("contract", contract);
+			assetsCovered.query();
+			while(assetsCovered.next()){
+				if (query.length &gt; 0)
+					query += ', ' + assetsCovered.asset;
+				else
+					query = assetsCovered.asset;
+			}
+			return 'sys_idIN' + query ;
+		}
+
+	},
+
+	getChannelChoicesForEntitlement: function(){
+		var query = ' ';
+		var choice = new GlideRecord("sys_choice");
+		choice.addQuery("name", "sn_customerservice_case");
+		choice.addQuery("element", "contact_type");
+		choice.query();
+		while(choice.next()){
+			if (query.length &gt; 0)
+				query += ', ' + choice.sys_id;
+			else
+				query = choice.sys_id;
+		}
+		return 'sys_idIN' + query ;
+
+	},
+
+	getChoiceSysIdForChannel: function(channel){
+		var query = ' ';
+		var choice = new GlideRecord("sys_choice");
+		choice.addQuery("name", "sn_customerservice_case");
+		choice.addQuery("element", "contact_type");
+		choice.addQuery("value",channel);
+		choice.query();
+		choice.next();
+		return choice.sys_id;
+
+	},
+
+	addCaseToChat: function(){
+		var answer = '';
+		var caseID = this.getParameter("sysparm_case_id");
+		var chatChannelID = this.getParameter("sysparm_channel_id");
+		if(gs.nil(caseID) || gs.nil(chatChannelID)) {
+			gs.log("Invalid request, caseID : "+ caseID +" , chatChannelID : " + chatChannelID);
+			return answer;
+		}
+
+		var gr = new GlideRecord("chat_channel_member");
+		gr.initialize();
+		gr.affiliation='member';
+		gr.chat_channel=chatChannelID;
+		gr.member_id=caseID;
+		gr.member_table='sn_customerservice_case';
+		gr.status = 'active';
+		answer = gr.insert();
+		return answer;
+	},
+
+
+	findLatestExpiringTaskSLA: function(caseRecord) {
+		var latestExpiringTaskSla=null;
+		var gr = new GlideRecordSecure('task_sla');
+		gr.addQuery('task', caseRecord.sys_id);
+		gr.orderBy('time_left');
+		gr.query();
+		if(gr.next()) {
+			latestExpiringTaskSla = gr;
+		}
+		return latestExpiringTaskSla;
+	},
+
+	isLatestExpiringSLABreached: function(caseRecord) {
+		var isBreached = false;
+		var latestExpiringTaskSla = this.findLatestExpiringTaskSLA(caseRecord);
+		if (latestExpiringTaskSla)
+			isBreached = (latestExpiringTaskSla.stage == 'breached');
+		return isBreached;
+	},
+
+	isLatestExpiringSLABreachInNextHour: function(caseRecord) {
+		var latestExpiringTaskSla = this.findLatestExpiringTaskSLA(caseRecord);
+		if (latestExpiringTaskSla) {
+			var dur  = latestExpiringTaskSla.time_left.getGlideObject();
+			if (!gs.nil(dur)) {
+				var time_left = dur.getNumericValue();
+				return time_left &gt; 0 &amp;&amp; time_left &lt;= 3600000;
+			}
+
+		}
+		return false;
+	},
+
+	getUsersInSameCompany: function(){
+		if(!gs.nil(current.parent.assigned_to.company)){
+			var query = ' ';
+			var users = new GlideRecord("sys_user");
+			users.addQuery("company", current.parent.assigned_to.company);
+			users.query();
+			while(users.next()){
+				if (query.length &gt; 0)
+					query += ', ' + users.sys_id;
+				else
+					query = users.sys_id;
+			}
+			return 'sys_idIN' + query;
+		}
+	},
+
+	updateValue: function(table, id, field, value) {
+		var gr = this._getGlideRecord(table, id);
+		if (gr) {
+			gr.setValue(field, value);
+			gr.update();
+		}
+	},
+
+	deleteRecord: function(table, id) {
+		var gr = this._getGlideRecord(table, id);
+		if (gr) {
+			gr.deleteRecord();
+		}
+	},
+
+	_getGlideRecord: function(tableName, recordId) {
+		var gr = new GlideRecord(tableName);
+		if (gr.get(recordId))
+			return gr;
+		return null;
+	},
+
+	getModelFromAsset: function(){
+		var asset = this.getParameter("sysparm_asset");
+		var gr = new GlideRecord("alm_asset");
+		gr.get(asset);
+		return gr.getValue("model");
+	},
+
+	getGlideRecordData: function() {
+
+		var result = this.getDocument().createElement("result");
+		this.getRootElement().appendChild(result);
+		var table_name = this.getParameter("sysparm_table_name");
+		var sys_id = this.getParameter("sysparm_sys_id");
+		var fields = this.getParameter("sysparm_fields") ? this.getParameter("sysparm_fields").split(",") : [];
+
+		result.setAttribute("table_name", table_name);
+		result.setAttribute("sys_id", sys_id);
+
+		var gr = new GlideRecordSecure(table_name);
+		if (!gr.get(sys_id)) {
+			result.setAttribute("error", "NOT_FOUND");
+			return;
+		}
+
+		result.setAttribute("label", gr.getLabel());
+		result.setAttribute("display_value", gr.getDisplayValue());
+		for(var i = 0; i &lt; fields.length; i++) {
+			var field = fields[i];
+			if (!field)
+				continue;
+
+			try {
+				var el = gr.getElement(field);
+				if (el) {
+					var item = this.getDocument().createElement("item");
+					item.setAttribute("field", field);
+					item.setAttribute("value", gr.getValue(field));
+					item.setAttribute("display_value", gr.getDisplayValue(field));
+					if (el.getED().isReference()) {
+						item.setAttribute("isReference", "true");
+						item.setAttribute("label", el.getRefRecord().getLabel());
+						item.setAttribute("dependent", el.getReferenceTable());
+					}
+					result.appendChild(item);
+				}
+			} catch (ex) {
+				gs.info("CSManagementUtils.getGlideRecordDatae : " + ex.message );
+			}
+		}
+	},
+
+	getPartnerContacts: function(account){
+		//Get contacts of my company and the company whom I am partner of
+		if(gs.nil(account))
+			account = current.account;
+		var query =' ';
+		if (account){
+			var accountsRelationship = new GlideRecord("account_relationship");
+			accountsRelationship.addQuery("to_company", account);
+			accountsRelationship.addQuery("reverse_relationship", false);
+			accountsRelationship.query();
+			var partnerContacts = [];
+			while(accountsRelationship.next()){
+				partnerContacts.push(accountsRelationship.from_company.toString());
+			}
+			query = partnerContacts.join();
+		}
+		return 'sys_idIN' + query;
+	},
+
+	getPartnerAndCustomerContacts: function(account){
+		if (!account)
+			return "";
+		var accountsRelationship = new GlideRecord("account_relationship");
+		accountsRelationship.addQuery("to_company", account);
+		accountsRelationship.query();
+		var partnerContacts = [];
+		partnerContacts.push(account); //add the current account
+		while(accountsRelationship.next()){
+			//add the current account's partners
+			partnerContacts.push(accountsRelationship.from_company.toString());
+		}
+		return this.getUsersInCompanies(partnerContacts);
+	},
+
+	getUsersInCompanies: function(companies){
+		var users = new GlideRecord("customer_contact");
+		users.addQuery('company','IN', companies);
+		users.query();
+		var contacts = [];
+		while(users.next()){
+			contacts.push(users.sys_id.toString());
+		}
+		return 'sys_idIN' + contacts;
+	},
+
+	getUserAccount: function() {
+		return gs.getUser().getCompanyID();
+	},
+
+	getUserPartnerContacts: function() {
+		//Get contacts of my company and my partner company
+		var partnerContacts = this.getMeAndPartners();
+		return this.getUsersInCompanies(partnerContacts);
+	},
+
+	getAccounts: function(account) {
+		//Reference qual used by contacts and asset variables on portal "Create Case"
+		//to filter contact/asset based on selected account
+		//if account is not selected, then return all accounts for the current user
+		if(account)
+			return account;
+		else
+			return this.getAccessibleAccounts(gs.getUser().getCompanyID(), false, true, true);
+	},
+
+	getMeAndPartners: function() {
+		//return this.getMyAccessibleAccountsStr();
+		return this.getAccessibleAccounts('', false, true, true);
+	},
+
+	getMyAccessibleAccountsStr: function(account) {
+		var accounts = this.getMyAccessibleAccounts(account);
+		if (!accounts)
+			accounts = [];
+		return accounts.join();
+	},
+
+	getMyAccessibleAccounts: function(account) {
+		//Get my accounts for which I have access to
+		var myAccessibleAccounts = [];
+
+		var key = this._getKey("cs_partner_accounts");
+		//gs.getSession().clearClientData(key);
+		var value = gs.getSession().getClientData(key);
+		if (!gs.nil(value)) {
+			if (value == "NIL") {
+				return [];
+			} else {
+				var valArray = value.split(',');
+				for (i=0; i &lt; valArray.length; i++)
+					myAccessibleAccounts.push(valArray[i]);
+				return myAccessibleAccounts;
+			}
+		}
+
+		value = "NIL";
+		account = account || gs.getUser().getCompanyID();
+		var accountGr = new GlideRecord("customer_account");
+
+		if (accountGr.get(account)) {
+			//Step 1: add the user account, if account is customer
+			if (accountGr.customer)
+				myAccessibleAccounts.push(account);
+
+			//Step 2: if account is type of partner and user has partner role
+			//then get all partner's for current user account
+			if (accountGr.partner &amp;&amp; gs.hasRole('sn_customerservice.partner')) {
+				var accountsRelationship = new GlideRecord("account_relationship");
+				accountsRelationship.addQuery("from_company", account);
+				accountsRelationship.addQuery("reverse_relationship", false);
+				accountsRelationship.query();
+				while(accountsRelationship.next()){
+					myAccessibleAccounts.push(accountsRelationship.getValue("to_company"));
+				}
+			}
+		}
+
+		//store list in user session as string to resue
+		if (myAccessibleAccounts.length &gt; 0)
+			value =  myAccessibleAccounts.toString();
+		gs.getSession().putClientData(key, value);
+		return myAccessibleAccounts;
+	},
+
+	getAllAccessibleAccounts: function(account) {
+		//Get my accounts for which I have access to
+		var myAccessibleAccounts = [];
+
+		var key = this._getKey("cs_all_accounts");
+		//gs.getSession().clearClientData(key);
+		var value = gs.getSession().getClientData(key);
+		if (!gs.nil(value)) {
+			if (value == "NIL") {
+				return [];
+			} else {
+				var valArray = value.split(',');
+				for (i=0; i &lt; valArray.length; i++)
+					myAccessibleAccounts.push(valArray[i]);
+				return myAccessibleAccounts;
+			}
+		}
+
+		value = "NIL";
+		account = account || gs.getUser().getCompanyID();
+		var accountGr = new GlideRecord("customer_account");
+
+		if (accountGr.get(account)) {
+
+			myAccessibleAccounts.push(account);
+			//Step 2: if account is type of partner and user has partner role
+			//then get all partner's for current user account
+			if (accountGr.partner &amp;&amp; gs.hasRole('sn_customerservice.partner')) {
+				var accountsRelationship = new GlideRecord("account_relationship");
+				accountsRelationship.addQuery("from_company", account);
+				accountsRelationship.addQuery("reverse_relationship", false);
+				accountsRelationship.query();
+				while(accountsRelationship.next()){
+					myAccessibleAccounts.push(accountsRelationship.getValue("to_company"));
+				}
+			}
+		}
+
+		//store list in user session as string to resue
+		if (myAccessibleAccounts.length &gt; 0)
+			value =  myAccessibleAccounts.toString();
+		gs.getSession().putClientData(key, value);
+		return myAccessibleAccounts;
+	},
+
+	getDefaultAccount : function(userId){
+		return getUserAccount();
+	},
+
+	isAccountAdmin: function(userId){
+		userId = userId || gs.getUserID();
+		var key = this._getKey("cs_is_user_account_admin");
+		gs.getSession().clearClientData(key);
+		var value = gs.getSession().getClientData(key);
+		if (gs.nil(value)) {
+			var userRecord = gs.getUser().getUserByID(userId);
+			var company = userRecord.getCompanyRecord();
+			value =  company &amp;&amp; userId == company.contact;
+			gs.getSession().putClientData(key, value);
+		}
+		return  value === true;
+	},
+
+	hasPartner: function() {
+		var accountGr = new GlideRecord("customer_account");
+		if(accountGr.get(gs.getUser().getCompanyID()))
+			return accountGr.partner;
+
+		return false;
+	},
+
+	hasPartnerOrIsAccountAdmin : function(){
+		if ( gs.hasRole('sn_esm_user_admin') || gs.hasRole('sn_esm_partner_admin') || gs.hasRole('sn_esm_partner')) {
+			if (this.hasPartner())
+				return "hasPartner";
+			else if (this.isAccountAdmin())
+				return "accountAdmin";
+		}
+		return "none";
+	},
+
+	isPartnerOfAccount : function() {
+		var account = this.getParameter("sysparm_account");
+		return this.isPartnerOf(account);
+	},
+
+	isPartnerOf: function(account) {
+		if (!account)
+			return false;
+		var accountsRelationship = new GlideRecord("account_relationship");
+		accountsRelationship.addQuery("to_company", account);
+		accountsRelationship.query();
+		return accountsRelationship.getRowCount() &gt; 0;
+	},
+
+	isCustomer: function(account) {
+		var gr = new GlideRecord("customer_account");
+		if (gr.get(account))
+			return gr.customer;
+		return false;
+
+	},
+	isPartner: function(account){
+		var gr = new GlideRecord("customer_account");
+		if (gr.get(account))
+			return gr.partner;
+		return false;
+	},
+
+	hasAccountAccessForPartnerAdmin: function(account){
+		if(gs.nil(account))
+			return false;
+		var accounts = this.getAllAccessibleAccounts();
+		if(accounts.toString().indexOf(account) != -1)
+			return true;
+		return false;
+	},
+
+	hasAccountAccessForPartner: function(account, contact){
+		if(gs.nil(account))
+			return false;
+		var accounts = this.getAllAccessibleAccounts();
+		if(accounts.toString().indexOf(account) != -1){
+			if(gs.getUser().getCompanyID() == account &amp;&amp; contact != gs.getUserID())
+				return false;
+			else
+				return true;
+		}
+		return false;
+	},
+
+	getPortalCaseListPage: function() {
+		var key = this._getKey("cs_portal_list_page");
+		var value = gs.getSession().getClientData(key);
+		if (gs.nil(value)) {
+			value = "my_cases.do";
+			if ( gs.hasRole('sn_customerservice.customer_admin') || gs.hasRole('sn_customerservice.partner_admin'))
+				value = "cases.do";
+			gs.getSession().putClientData(key, value);
+		}
+		return value;
+	},
+	/** Get Accounts to determine the cases to which I have read/write access in the portal.
+		account: account sys_id
+		readWriteAccess:
+			true : create access
+			false : read access
+		checkAcctCustomer: check account is a customer account for creating cases
+		returnStr:
+			true : return a string
+			false : return an array
+ 	*/
+	getAccessibleAccounts: function(account, readWriteAccess, checkAcctCustomer, returnStr) {
+		var key = "cs_user_accessible_accounts";
+		var accessibleAccounts;
+		key += checkAcctCustomer ? '_customer': '';
+		key += readWriteAccess ? '_write': '_read';
+		key = this._getKey(key);
+		accessibleAccounts = gs.getSession().getClientData(key);
+		if (!gs.nil(accessibleAccounts)) {
+			if (accessibleAccounts == "NIL")
+				return [];
+			 else
+				accessibleAccounts = accessibleAccounts.split(',');
+
+		} else {
+			accessibleAccounts = new sn_customerservice.CSPortalUtil().getAccessibleAccounts(account, readWriteAccess, checkAcctCustomer);
+			if(accessibleAccounts.length &gt; 0)
+				gs.getSession().putClientData(key, accessibleAccounts.join());
+			else
+				gs.getSession().putClientData(key, 'NIL');
+		}
+
+		if(returnStr)
+			return accessibleAccounts.slice(0).join();
+		return accessibleAccounts.slice(0);
+	},
+
+
+	getAssetsBasedOnAccountRelationship: function(account, checkCustomerFlag) {
+		var key = "cs_user_accessible_assets";
+		var accounts;
+		var m2mAssetContact;
+		var assets;
+		var almAsset = new GlideRecord('alm_asset');
+		var useM2MAssetContact = gs.getProperty('sn_customerservice.use_asset_contact_relationship');
+		var asset;
+
+		key += checkCustomerFlag ? '_customer': '';
+		key = this._getKey(key);
+
+		//Get from Cache only when account is empty
+		//We don't want to cache for each account
+		//Already the getAccessibleAccounts function caches the accounts
+
+		if(gs.nil(account))
+			assets = gs.getSession().getClientData(key);
+
+		if (!gs.nil(assets)) {
+			if (assets == "NIL")
+				assets = '';
+			return assets;
+
+		} else if(useM2MAssetContact == 'true') {
+			assets = [];
+			accounts =  this.getAccessibleAccounts(gs.getUser().getCompanyID(), false, false, true);
+			m2mAssetContact = new GlideRecord('sn_customerservice_m2m_asset_contact');
+			m2mAssetContact.addQuery('contact', gs.getUserID());
+			if(account)
+				m2mAssetContact.addQuery('asset.account', account);
+			m2mAssetContact.query();
+			while(m2mAssetContact.next()) {
+				asset = m2mAssetContact.asset.getRefRecord();
+				if(accounts.indexOf(asset.getValue('account')) &gt; -1)
+					assets.push(m2mAssetContact.getValue('asset'));
+			}
+		} else {
+			assets = [];
+			if(!gs.nil(account))
+				almAsset.addQuery('account', account);
+			else {
+				if(checkCustomerFlag == true)
+					accounts =  this.getAccessibleAccounts(gs.getUser().getCompanyID(), false, true, true);
+				else
+					accounts =  this.getAccessibleAccounts(gs.getUser().getCompanyID(), false, false, true);
+				almAsset.addQuery('account', 'IN', accounts);
+			}
+			almAsset.query();
+			while(almAsset.next())
+				assets.push(almAsset.getValue('sys_id'));
+		}
+		if(gs.nil(account)) {
+			if(assets.length &gt; 0)
+				gs.getSession().putClientData(key, assets.join());
+			else
+				gs.getSession().putClientData(key, 'NIL');
+		}
+		return assets.join();
+	},
+
+	hasAccessToAccount: function(company, checkAgent) {
+		var hasAccess = false;
+		if(checkAgent &amp;&amp; gs.hasRole("sn_esm_agent")){
+			hasAccess =true;
+		} else {
+			var accounts = this.getAccessibleAccounts('', false, false, false);
+
+			/*if(accounts[0] == gs.getUser().getCompanyID())
+				accounts.shift();*/
+
+			if(company &amp;&amp; accounts.toString().indexOf(company) != -1) {
+				if(gs.hasRole("sn_esm_user"))
+					hasAccess = true;
+			}
+			/*else if(gs.hasRole("sn_esm_user")){
+				if(company == gs.getUser().getCompanyID())
+					hasAccess = true;
+			}*/
+		}
+		return hasAccess;
+	},
+
+	hasReadAccessToAsset: function(company, asset, checkAgent) {
+		var m2mAssetContact;
+		var hasAccess = false;
+		var useM2MAssetContact = gs.getProperty('sn_customerservice.use_asset_contact_relationship');
+		if(checkAgent &amp;&amp; gs.hasRole("sn_esm_agent")){
+			hasAccess =true;
+		}
+		else {
+			hasAccess = this.hasAccessToAccount(company, checkAgent);
+			if(hasAccess &amp;&amp; useM2MAssetContact == 'true') {
+				m2mAssetContact = new GlideRecord('sn_customerservice_m2m_asset_contact');
+				m2mAssetContact.addQuery('asset', asset);
+				m2mAssetContact.addQuery('contact', gs.getUserID());
+				m2mAssetContact.query();
+				if(m2mAssetContact.hasNext())
+					hasAccess = true;
+			}
+		}
+		return hasAccess;
+	},
+
+	hasWriteAccessToContact: function(account, user) {
+		var hasAccess = false;
+		if(gs.hasRole("sn_esm_user") || gs.hasRole("sn_esm_partner")){
+			if(user == gs.getUserID())
+				hasAccess = true;
+			else if(gs.hasRole("sn_esm_user_admin") &amp;&amp; account == gs.getUser().getCompanyID())
+				hasAccess = true;
+			else {
+				var accounts = this.getAccessibleAccounts('', true, false, true);
+				if(accounts.indexOf(account) != -1) {
+					hasAccess = true;
+				}
+			}
+		}
+		return hasAccess;
+	},
+
+	hasReadAccessToContact: function(account, user) {
+		var hasAccess = false;
+
+		if(gs.hasRole("sn_esm_agent"))
+			hasAccess = true;
+		else if(gs.hasRole("sn_esm_user")) {
+			if(user == gs.getUserID())
+				hasAccess = true;
+			else if(gs.hasRole("sn_esm_user_admin") &amp;&amp; account == gs.getUser().getCompanyID())
+				hasAccess = true;
+			else {
+				var accounts = this.getAccessibleAccounts('', false, false, true);
+				if(accounts.indexOf(account) != -1) {
+					hasAccess = true;
+					if(!this.hasUserAdminAccess()) {
+						if(gs.getUser().getCompanyID() == account &amp;&amp; user != gs.getUserID())
+							hasAccess = false;
+					}
+				}
+			}
+		}
+		return hasAccess;
+	},
+
+	hasUserAdminAccess: function() {
+		var key = this._getKey("cs_user_has_admin_access");
+		var value = gs.getSession().getClientData(key);
+		if (gs.nil(value)) {
+			var roles = new sn_customerservice.CSPortalUtil().getRelationshipRolesWithAdminAccess();
+			for(var i=0; i&lt;roles.length; i++) {
+				if(gs.hasRole(roles[i])) {
+					value = true;
+					break;
+				}
+			}
+			value = value ? value : false;
+			gs.getSession().putClientData(key, value);
+		}
+
+		return value == 'true' ? true : false;
+	},
+
+	hasSubAccounts: function(account) {
+		var subAccounts = this.getAccountsFromHierarchy(account);
+		if(subAccounts.length &gt; 0)
+			return true;
+		return false;
+	},
+
+	hasAccountContactRelation: function(contact) {
+		var accounts = this.getAccountsFromContactRelationship(contact);
+		if(accounts.length &gt; 0)
+			return true;
+		return false;
+	},
+
+	getRelatedAccountContacts: function(account) {
+		//var relationshipType;
+		var accountRelationships;
+		var customerContacts;
+		//var contact;
+		//var roles;
+		var contacts = [];
+		//var relationshipRoles = new sn_customerservice.CSPortalUtil().getRelationshipRolesWithReadAccess();
+
+		//Add all contacts of the partner accounts who have read access for the account relationship type
+		//for(relationshipType in relationshipRoles) {
+			//roles = relationshipRoles[relationshipType];
+			accountRelationships = new GlideRecord('account_relationship');
+			//accountRelationships.addQuery('relationship_type', relationshipType);
+			accountRelationships.addQuery('reverse_relationship', false);
+			accountRelationships.addQuery('to_company', account);
+			accountRelationships.query();
+			while(accountRelationships.next()) {
+				customerContacts = new GlideRecord('customer_contact');
+				customerContacts.addQuery('account', accountRelationships.getValue('from_company'));
+				customerContacts.query();
+				while(customerContacts.next()) {
+					//contact = customerContacts.getValue('sys_id');
+					//for(var i=0 ; i&lt;roles.length; i++) {
+						//if(gs.getUser().getUserByID(contact).hasRole(roles[i])) {
+							//contacts.push(contact);
+							contacts.push(customerContacts.getValue('sys_id'));
+							//break;
+						//}
+					//} // end of loop for contacts with roles
+				} // end of loop for contacts in account
+			} // end of loop for accounts with relationshipTypes
+		//} // end of loop for relationshipTypes
+		return contacts;
+	},
+
+	getAccountContacts: function(account) {
+		/* ReferenceQual for Account Contact Relationships:-
+		1) My Account contacts
+		2) Contacts from any Account (Partner or Account) relationship
+		3) Contacts from account hierarchy (whole account hierarchy tree)
+		*/
+
+		var query = null;
+		var gr = new GlideRecord('customer_account');
+		if (gr.get(account)) {
+			//Get related accounts
+			relatedAccounts = [account];
+			var accountRelationships = new GlideRecord('account_relationship');
+			accountRelationships.addQuery('reverse_relationship', false);
+			accountRelationships.addQuery('to_company', account);
+			accountRelationships.query();
+			while(accountRelationships.next())
+				relatedAccounts.push(accountRelationships.getValue('from_company'));
+
+			if (relatedAccounts.length &gt; 0)
+				query = 'accountIN' + relatedAccounts.join(',');
+
+			//Accounts from account hierarchy (whole account hierarchy tree)
+			var accountPath = gr.getValue('account_path');
+			if(!gs.nil(accountPath)) {
+				if (!gs.nil(query))
+					query = query + '^ORaccount.account_pathSTARTSWITH' + accountPath.split('/')[0];
+				else
+					query =  'account.account_pathSTARTSWITH' + accountPath.split('/')[0];
+			}
+		}
+
+		//for invalid account or no match, make sure no contact is returned, is it right approach?
+		if (gs.nil(query))
+			query = 'sys_idISEMPTY';
+
+		return query;
+	},
+
+
+	getAssetContacts: function(asset) {
+		/* ReferenceQual for Asset Contact Relationships :-
+		1) My Account contacts
+		2) Contacts from Partner Account relationship
+		3) Contacts from "Contact Account relationship"
+		*/
+		var query = null;
+		var gr = new GlideRecord('alm_asset');
+		if (gr.get(asset)) {
+			var assetAccount = gr.getValue('account');
+			if (!gs.nil(assetAccount)) {
+				var accounts = [assetAccount]; //by default add asset.account
+				//get accounts from relationship
+				var ar = new GlideRecord('account_relationship');
+				ar.addQuery('reverse_relationship', false);
+				ar.addQuery('to_company', assetAccount);
+				ar.query();
+				while(ar.next())
+					accounts.push(ar.getValue('from_company'));
+
+				if (accounts.length &gt; 0)
+					query = 'accountIN' + accounts.join(',');
+
+				//get contacts from account contact relationship
+				var contacts = [];
+				var ac =  new GlideRecord('sn_customerservice_contact_relationship');
+				ac.addQuery('company', 'IN', accounts.join(','));
+				ac.query();
+				while(ac.next())
+					contacts.push(ac.getValue('contact'));
+
+				if (contacts.length &gt; 0)
+					query = query + '^ORsys_idIN' + contacts.join(',');
+			}
+		}
+
+		//for invalid asset id or no match, make sure no contact is returned, is it right approach?
+		if (gs.nil(query))
+			query = 'sys_idISEMPTY';
+
+		return query;
+	},
+
+	getCaseContacts : function(account) {
+		var contacts = [];
+		var accounts;
+		var gr = new GlideRecord('customer_contact');
+		if(account) {
+			contacts = this.getContactsFromAccountRelationship(account.toString());
+			gr.addQuery('account', account);
+		} else if (gs.hasRole('sn_customerservice.customer') &amp;&amp; !gs.hasRole('admin')) {
+			accounts = this.getAccessibleAccounts(gs.getUser().getCompanyID(), false, true, false);
+			contacts = this.getContactsFromAccountRelationship(accounts);
+			gr.addQuery('account', 'IN', accounts.join(','));
+		} else {
+			return "";
+		}
+		gr.query();
+		while(gr.next())
+			contacts.push(gr.getValue('sys_id'));
+
+		return 'sys_idIN' + contacts.join(',');
+	},
+	
+	getCaseContactsSysIDs : function(account) {
+		var contacts = [];
+		var accounts;
+		var gr = new GlideRecord('customer_contact');
+		if(account) {
+			contacts = this.getContactsFromAccountRelationship(account.toString());
+			gr.addQuery('account', account);
+		} else if (gs.hasRole('sn_customerservice.customer') &amp;&amp; !gs.hasRole('admin')) {
+			accounts = this.getAccessibleAccounts(gs.getUser().getCompanyID(), false, true, false);
+			contacts = this.getContactsFromAccountRelationship(accounts);
+			gr.addQuery('account', 'IN', accounts.join(','));
+		} else {
+			return '';
+		}
+		gr.query();
+		while(gr.next())
+			contacts.push(gr.getValue('sys_id'));
+
+		return contacts.join(',');
+	},
+
+	getCasePartnerContacts : function(partner) {
+		var contacts = [];
+		var gr = new GlideRecord('customer_contact');
+		gr.addQuery('account',partner);
+		gr.query();
+		while(gr.next())
+			contacts.push(gr.getValue('sys_id'));
+		return contacts.join(',');
+	},
+
+	getAccountsFromHierarchy : function(account) {
+		var accounts = new sn_customerservice.CSPortalUtil().getAccountsFromHierarchy(account);
+		return accounts;
+	},
+
+	getAccountsFromContactRelationship : function(contact) {
+		var accounts = new sn_customerservice.CSPortalUtil().getAccountsFromContactRelationship(contact);
+		return accounts;
+	},
+
+	getAccountsFromAccountRelationship : function(account) {
+		var accounts = new sn_customerservice.CSPortalUtil().getAccountsFromHierarchy(account);
+		return accounts;
+	},
+
+	getContactsFromAccountRelationship : function(account) {
+		var contacts = new sn_customerservice.CSPortalUtil().getContactsFromAccountRelationship(account);
+		return contacts;
+	},
+
+	isConnectCompatibility: function(){
+		return new GlideCollaborationCompatibility().getCompatibility();
+	},
+
+    checkCompatibility: function(browser){
+        var message = '';
+        if(typeof browser !== "undefined"){
+            if (browser['isMSIE']) {
+                if (browser.versionString &lt;= 8) {
+                    message = 'unsupported_browser';
+                }
+            }
+        } else {
+            var device = new GlideMobileExtensions().getDeviceType();
+            if (device == "m" || device == "mobile" || device == "tablet")
+                message = 'unsupported_device';
+        }
+        return message;
+    },
+	scopedGlideMobileExtensions: function(){
+		return GlideMobileExtensions();
+	},
+
+	scopedGlideCollaborationCompatibility: function(){
+		return GlideCollaborationCompatibility();
+	},
+
+	addRemoveRolesForContact: function(newRoles, contactId) {
+		if (gs.hasRole("sn_customerservice.customer_admin")) {
+			var availableRoles = gs.getProperty('sn_customerservice.contact_role_assignment','sn_customerservice.partner_admin,sn_customerservice.partner,sn_customerservice.customer_admin,sn_customerservice.customer');
+			var rolesToAdd = [];
+
+			newRoles = newRoles || this.getParameter("sysparm_add_roles");
+			contactId = contactId || this.getParameter("sysparm_contact_id");
+			this._deleteContactRoles(availableRoles, contactId);
+			if(!gs.nil(newRoles)) {
+				rolesToAdd = newRoles.split(',');
+				for(var k=0; k&lt;rolesToAdd.length; k++)
+					this._addContactRole(rolesToAdd[k], contactId);
+			}
+		}
+	},
+
+	getChildAccounts: function() {
+		var id = this.getParameter('account_id');
+		var expanded_nodes = this.getParameter('expanded_nodes');
+		var expanded_nodes_arr = expanded_nodes.split(',');
+		var expanded_nodes_map = {};
+		for (var e_node in expanded_nodes_arr) {
+			expanded_nodes_map[expanded_nodes_arr[e_node]] = true;
+		}
+		var gr = new GlideRecord('customer_account');
+		gr.addQuery('account_parent', id);
+ 		gr.orderBy('account_code');
+ 		gr.query();
+		
+		var accountItems = [];
+		var childrenCounts = {};
+		
+		while(gr.next()) {
+			var accountItem = {};
+			accountItem.sys_id = gr.getValue('sys_id');
+			accountItem.label = gr.getValue('name')+"  -  "+gr.getValue('number');
+			accountItems.push(accountItem);
+			childrenCounts[gr.getValue('sys_id')] = -1;
+		}
+				
+		var countgr = new GlideAggregate('customer_account');
+		countgr.addAggregate('COUNT', 'account_parent');
+		countgr.addQuery('account_parent', 'IN', Object.keys(childrenCounts).join());
+		countgr.query();
+		
+		while(countgr.next()) {
+			childrenCounts[countgr.getValue('account_parent')] = countgr.getAggregate('COUNT', 'account_parent');
+		}
+		
+		for(var i = 0; i &lt; accountItems.length; i++) {
+			if(expanded_nodes_map[accountItems[i].sys_id] == true){
+				this._getChildAccountItems(accountItems[i], childrenCounts);
+			}
+		}
+		
+		for(var j = 0; j &lt; accountItems.length; j++) {
+			if(expanded_nodes_map[accountItems[j].sys_id] != true){
+				this._getChildAccountItems(accountItems[j], childrenCounts);
+			}
+		}
+	},
+	
+	_getChildAccountItems: function(accountItem, childrenCounts) {
+		item = this.newItem();
+		item.setAttribute('sys_id',  accountItem.sys_id);
+		item.setAttribute('label', accountItem.label);
+		if(childrenCounts[accountItem.sys_id] &lt; 1) {
+			item.setAttribute('has_children', false);
+		} else {
+			item.setAttribute('has_children', true);
+		}
+	},
+
+	/**
+	* Get login user consumer sys_id
+	*/
+	getConsumerId: function(){
+		var consumer;
+		var key = "consumer_id_" + gs.getUserID();
+		consumer = gs.getSession().getProperty(key);
+		if (consumer == "NIL" || gs.nil(consumer)) {
+			var gr = new GlideRecord("csm_consumer");
+			gr.addQuery('user',gs.getUserID());
+			gr.setWorkflow(false);
+			gr.query();
+			if(gr.next())
+				consumer = gr.getUniqueValue();
+			gs.getSession().putProperty(key, gs.nil(consumer) ? 'NIL' : consumer);
+		}
+		return consumer == 'NIL' ? null : consumer;
+	},
+
+	/**
+	* Get login user consumer record, return null if consumer record not found for login user
+	*/
+	getConsumerRecord: function(){
+		var gr = new GlideRecord("csm_consumer");
+		if (gr.get(this.getConsumerId()))
+			return gr;
+
+		return null;
+	},
+
+	verifyCaptcha: function(grc) {
+		try {
+			if(GlideUtil.isDeveloperInstance() || (gs.getProperty('sn_customerservice.captchaEnabled', 'true') == 'false'))
+				return true;
+			else if(grc){
+				// Create REST message to check the passed token with Google recaptcha service:
+				/* eslint-disable no-undef */
+				var r = new sn_ws.RESTMessageV2();
+				/* eslint-disable no-undef */
+
+				r.setHttpMethod('post');
+				r.setEndpoint('https://www.google.com/recaptcha/api/siteverify');
+
+				var secret = gs.getProperty('google.captcha.secret');
+				var Encrypter = new GlideEncrypter();
+
+				r.setQueryParameter('secret', Encrypter.decrypt(secret));
+				r.setQueryParameter('response', grc);
+
+				var response = r.execute();
+
+				var responseBody = response.getBody();
+
+				var parser = new JSONParser();
+				var parsed = parser.parse(responseBody);
+
+				return parsed.success;
+			}else
+				return false;
+
+
+		}
+		catch(ex) {
+			return false;
+		}
+	},
+
+	_deleteContactRoles: function(roles, contactId) {
+		var gr = new GlideRecord('sys_user_has_role');
+		gr.addQuery('role.name', 'IN', roles);
+		gr.addQuery('user', contactId);
+		gr.deleteMultiple();
+	},
+
+	_addContactRole: function(role, contactId) {
+		var gr = new GlideRecord('sys_user_has_role');
+		gr.initialize();
+		gr.user = contactId;
+		gr.role = role;
+		gr.insert();
+	},
+
+	_getKey: function(name) {
+		var key = name + "_" + gs.getUserID();
+		return key;
+	},
+	_getCaseSyncProp :function(){
+		return gs.getProperty("sn_customerservice.parent_child_ case_sync",false);
+	},
+	isChatConversation: function(conversation) {
+		return conversation.type === 'support' &amp;&amp; conversation.table === 'chat_queue_entry';
+	},
+	isAgent: function() {
+		return gs.hasRole('sn_customerservice.consumer_agent') || gs.hasRole('sn_customerservice_agent'); 
+	},
+	showConfirmationDialog :function(){
+		var canSync =this._getCaseSyncProp();
+		var modifiedfields= this.getParameter('sysparm_modifiedfields');
+		modifiedfields=JSON.parse(modifiedfields);
+		if(canSync == 'true')
+		{
+		
+			//Additional Check to see if the Record is eligible for Synching
+			var sys_id = this.getParameter("sysparm_parent_sysid");
+			var parentGr = new GlideRecord("sn_customerservice_case");
+			parentGr.get(sys_id);
+	
+			var syncHelper = new sn_customerservice.CSCaseSyncHelper();
+			syncEnabled = syncHelper.isCaseSyncEnabled(parentGr);
+			
+			if(syncEnabled){
+				var childRec = new GlideRecord("sn_customerservice_case");
+				childRec.addQuery("parent", sys_id);
+				childRec.query();
+				if (childRec.next()){
+					var field_list= gs.getProperty('sn_customerservice.case_fields_to_sync','').split(',');
+					for(var i=0; i&lt;field_list.length;i++){
+	
+						var field_name="sn_customerservice_case."+field_list[i].trim();
+						if(field_name in modifiedfields){
+							return true;
+						}
+					}
+				}
+			}
+		}
+		return false;
+	},
+	
+	//Method to check access to fields under Related Records section on case form
+	hasAccessToRelatedRecords:function(){
+		var hasAccess = false;
+		if(pm.isActive(CSMBaseConstants.CASE_DIGEST_PLUGIN)){
+			var caseDigest = new sn_csm_case_digest.CaseDigest();
+			var hasPCRAccess = caseDigest.hasAccessToPCR();
+			var hasCASAccess = caseDigest.hasAccessToCAS();
+			hasAccess = hasPCRAccess || hasCASAccess;
+		}
+		//return true if there is access to any one of the fields
+		return hasAccess;
+	},
+	filterOnAccountAndProduct: function(currentRec) {
+    var refQualifier = '';
+    // account and consumer are mutually exclusive.
+    if (!currentRec.account.nil())
+        refQualifier = 'account=' + currentRec.account;
+    else if (!currentRec.consumer.nil())
+        refQualifier = 'consumer=' + currentRec.consumer;
+
+    if (!currentRec.product.nil())
+        refQualifier = refQualifier + (refQualifier.length &gt; 0 ? '^' : '') +
+        'product=' + currentRec.product;
+    return refQualifier;
+},
+	
+	type: 'CSManagementUtils'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-02-20 16:15:20&lt;/sys_created_on&gt;&lt;sys_id&gt;d5acd7d2d7123100b7490ee60e6103f4&lt;/sys_id&gt;&lt;sys_mod_count&gt;88&lt;/sys_mod_count&gt;&lt;sys_name&gt;CSManagementUtils&lt;/sys_name&gt;&lt;sys_package display_value="Customer Service Base Entities" source="com.snc.cs_base"&gt;bd702a54db3333006fedf53a29961972&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_d5acd7d2d7123100b7490ee60e6103f4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-17 07:18:24&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload><payload_hash>-997653690</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>fa139157db9000106fedf53a2996197b</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d3e1630590000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table/><target_name>CSManagementUtils</target_name><type>Script Include</type><update_domain>global</update_domain><update_guid>20ad03f772b37300628a5bdda08ac8c2</update_guid><update_guid_history>20ad03f772b37300628a5bdda08ac8c2:-997653690,750d03f768b373005b7795d7a2cc6fbb:1873877062,ec9c8bb727b373009dd202ead7741ab4:-1706895247,ac9c8bb738b37300b5ce0bf7e70d7fb1:-1933372484</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_db_object_9df45622e135330078502406b63333d4</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>Contract</label><live_feed_enabled>false</live_feed_enabled><name>ast_contract</name><number_ref display_value="CNTR">1105e2fdc611227500431693e632050b</number_ref><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>system</sys_created_by><sys_created_on>2019-06-05 19:52:47</sys_created_on><sys_id>9df45622e135330078502406b63333d4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Contract</sys_name><sys_package display_value="Contract Management" source="com.snc.contract_management">f4f45622e135330078502406b6333354</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_9df45622e135330078502406b63333d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 11:50:49</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload><payload_hash>566829795</payload_hash><remote_update_set display_value="OneWeb Configuration Global">f2139157db9000106fedf53a2996197a</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 05:37:30</sys_created_on><sys_id>fe139157db9000106fedf53a2996197a</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16d39e93baf0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 05:37:30</sys_updated_on><table>ast_contract</table><target_name>Contract</target_name><type>Table</type><update_domain>global</update_domain><update_guid>1562c76311b333009bdb630b4f739d2a</update_guid><update_guid_history>1562c76311b333009bdb630b4f739d2a:566829795,9162c7638db33300e7bc9c18c8f89e15:1777692626</update_guid_history><update_set/><view/></sys_update_xml></unload>
