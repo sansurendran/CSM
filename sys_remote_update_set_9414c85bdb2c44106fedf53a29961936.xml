@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-10-22 10:07:53">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Test Update Set</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>112d0303db6844106fedf53a299619ce</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-10-22 10:07:52</sys_created_on>
+<sys_id>9414c85bdb2c44106fedf53a29961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-10-22 10:07:52</sys_updated_on>
+<u_close_task>false</u_close_task>
+<u_completed_by display_value=""/>
+<u_notify_users/>
+<u_push_to_prod>false</u_push_to_prod>
+<u_push_to_test>false</u_push_to_test>
+<u_task/>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_910f2332dbe804106fedf53a29961900</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.GetContent&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;GetContent&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var GetContent = Class.create();
+GetContent.prototype = {
+    initialize: function() {
+    },
+	
+getContent:function(sysID){
+var gr = new GlideRecord("sys_attachment");
+gr.addQuery('table_sys_id',sysID);
+gr.query();
+if (gr.next()) {
+var ga = new GlideSysAttachment();
+var gsu = (typeof GlideStringUtil != 'undefined') ? (GlideStringUtil) : (Packages.com.glide.util.StringUtil); //few versions support the first one, other supports second
+   var gsa = (typeof GlideSysAttachment != 'undefined') ? (new GlideSysAttachment()) : (new Packages.com.glide.ui.SysAttachment());
+   var attachmentData = gsa.getBytes(gr);
+   var attachment = String(Packages.java.lang.String(attachmentData));
+   //gs.print(attachment); 
+ var content = gsa.getContent(gr);
+	//gs.log(content);
+	
+
+}
+ else {
+       gs.log("Could not find sys_attachment record for sysid {0}");
+}
+	},
+    type: 'GetContent'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-21 13:59:13&lt;/sys_created_on&gt;&lt;sys_id&gt;910f2332dbe804106fedf53a29961900&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;GetContent&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_910f2332dbe804106fedf53a29961900&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-22 07:28:00&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>681760746</payload_hash>
+<remote_update_set display_value="Test Update Set">9414c85bdb2c44106fedf53a29961936</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-10-22 10:07:52</sys_created_on>
+<sys_id>5814c85bdb2c44106fedf53a29961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16df25d8f290000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-10-22 10:07:52</sys_updated_on>
+<table/>
+<target_name>GetContent</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>1e7fdb83e1a84410fb97c74a28b1ce82</update_guid>
+<update_guid_history>1e7fdb83e1a84410fb97c74a28b1ce82:681760746,b79dcfcfb6284410c15a4d4f247318fb:1669634442,1e8f7e8be5e44410f6ce0513c6b894b1:1504227927,d9c1fff2fae804101fb726916c1ddb93:1669634442,cd21fff250e80410d500442c466e563d:-551185461,06a0bff227e8041063055fea24d30e96:1906099834,e7ef2fb2bce80410001ec19783fe579e:-1479250903,576f6bb2b4e8041026e23d1d1e2998d8:-1326132832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
